@@ -1,0 +1,28 @@
+/* nav */
+body, html {
+  width: 100%; }
+
+.advbox {
+  width: 100%;
+  height: 5050px;
+  background: pink;
+  overflow: hidden; }
+  .advbox .adv {
+    width: 1240px;
+    height: 5050px;
+    margin: 0 auto;
+    background: yellow;
+    overflow: hidden; }
+    .advbox .adv .title1 {
+      width: 1240px;
+      height: 30px;
+      background: gray;
+      margin: 87px 0 25px; }
+      .advbox .adv .title1 a {
+        display: block;
+        float: left;
+        font-size: 18px; }
+      .advbox .adv .title1 .span1 {
+        font-size: 30px;
+        line-height: 30px;
+        float: left; }

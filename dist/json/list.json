@@ -1,0 +1,36 @@
+{
+    "list":[
+        {
+            "id":1,
+            "model":"魅族 16T",
+            "desc":"【湖光绿 现货开售】【原厂碎屏险...",
+            "price":"￥1999",
+            "active":"新品",
+            "old_price":"",
+            "bigimg":["https://openfile.meizu.com/group1/M00/07/7A/Cgbj0V2upxqANyVFAAjApUYA58w668.png@480x480.jpg","https://openfile.meizu.com/group1/M00/07/62/Cgbj0F2upwyAKqQSAAlGpvLiEdc809.png@480x480.jpg","https://openfile.meizu.com/group1/M00/07/63/Cgbj0F2upyiAB_3lAAnTljHXwh0597.png@480x480.jpg"],
+            "smallimg":["https://openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png","https://openfile.meizu.com/group1/M00/07/7E/Cgbj0V2wCvOAXBtZAAAQmfSg29c559.png","https://openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAMJ7MAAARfgRallY579.png"]
+        },
+        {
+            "id":2,
+            "model":"魅族 16s Pro",
+            "desc":"【暮光森林 现货开售】【限时3期免...",
+            "price":"￥2699",
+            "active":"新品",
+            "old_price":"",
+            "bigimg":["https://openfile.meizu.com/group1/M00/07/5F/Cgbj0V1jhtuAa71pAAd3EPLUA9Q862.png@480x480.jpg","https://openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhu-AaV4AAAlk4z4lkt0463.png@480x480.jpg","https://openfile.meizu.com/group1/M00/07/48/Cgbj0F1jhuqADaMyAAlvEHNfjUE482.png@480x480.jpg"],
+            "smallimg":["https://openfile.meizu.com/group1/M00/07/67/Cgbj0V1mXQGALa4XAAAGn--MW3Q521.png","https://openfile.meizu.com/group1/M00/07/67/Cgbj0V1mXQKAN7xoAAAN40KZjAg035.png","https://openfile.meizu.com/group1/M00/07/50/Cgbj0F1mXQGAP_ceAAAPO73h1JQ937.png"]
+        },
+        {
+            "id":3,
+            "model":"魅族 16X",
+            "desc":"【限时3期免息】骁龙710 | 屏幕下...",
+            "price":"限时特惠￥1098",
+            "active":"特惠",
+            "old_price":"",
+            "bigimg":["https://openfile.meizu.com/group1/M00/06/CC/Cgbj0VvINL-AGM20AAw4GirVtYA698.png@480x480.jpg","https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINLWACd0AAAh2dGv5_R0516.png@480x480.jpg","https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINMCAYHwVAA9tzd_slxY751.png@480x480.jpg"],
+            "smallimg":[
+                "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAJz5TAAAKRl5WFHo560.png","https://openfile.meizu.com/group1/M00/07/7E/Cgbj0V2wCvOAXBtZAAAQmfSg29c559.pnghttps://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OALNmIAAAJazF5kdU467.png","https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3KAGI55AAAKABlplKE892.png"]
+        }
+    ]
+    
+}
