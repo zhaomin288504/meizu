@@ -8,7 +8,7 @@ require.config({
         "jquery": "jquery-1.11.3",
         "jquery-cookie": "jquery.cookie",
         "parabola": "parabola",
-        "listpage":"listpage"
+        "detailPage":"detailPage"
     },
     shim: {
         //设置依赖关系  先引入jquery.js  然后在隐去jquery-cookie
@@ -22,12 +22,12 @@ require.config({
 
 //加载首页的代码
 
-require(["listpage"], function(listpage){
-    listpage.data();
-    listpage.hovershow();
-    // listpage.hovershow();
-    listpage.slideshow();
-    listpage.toward();
-    listpage.imgclick();
+require(["detailPage"], function(detailPage){
+
+    detailPage.slideshow();
+    detailPage.scrolltop();
+    detailPage.bigGlass();
+    detailPage.data();
+    detailPage.cutImg();
 })
 

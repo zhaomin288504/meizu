@@ -23,7 +23,11 @@ require.config({
 //加载首页的代码
 
 require(["listpage"], function(listpage){
-    
-    // listpage.downData();
+    listpage.data();
+    listpage.hovershow();
+    // listpage.hovershow();
+    listpage.slideshow();
+    listpage.toward();
+    listpage.imgclick();
 })
 

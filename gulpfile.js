@@ -76,13 +76,11 @@ gulp.task("sass5",function(){
     .pipe(connect.reload());
 })
 gulp.task("sass6",function(){
-    return gulp.src("sass/listpage.scss")
+    return gulp.src("sass/*.scss")
     .pipe(sass())
     .pipe(gulp.dest("dist/css"))
     .pipe(connect.reload());
 })
-
-
 gulp.task("build",["copy","img","script","sass1","sass2","sass3","sass4","sass5","sass6","data"],function(){
     console.log("项目建立成功");
 })
@@ -97,7 +95,7 @@ gulp.task("watch",function(){
     gulp.watch("sass/iconfont.scss",["sass3"]);
     gulp.watch("sass/buttons.scss",["sass4"]);
     gulp.watch("sass/bootstrap.scss",["sass5"]);
-    gulp.watch("sass/listpage.scss",["sass6"]);
+    gulp.watch("sass/*.scss",["sass6"]);
 })
 
 const connect = require("gulp-connect");
